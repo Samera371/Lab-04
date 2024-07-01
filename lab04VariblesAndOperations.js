@@ -52,9 +52,9 @@ console.log("I am doing lab-04 walkthrough");
  * ↓ YOUR CODE HERE ↓ */
 
 console.log("Step 1:  Number of Seats on a Plane");
-var availableFlightSeet = 10;
+var availableFlightSeat = 10;
 console.log(
-  "The number of seats left on this plane are " + availableFlightSeet
+  "The number of seats left on this plane are " + availableFlightSeat
 );
 console.log("Step 2:  Cost of Groceries");
 
@@ -67,7 +67,6 @@ var middleInitial = "i";
 console.log("My middle initial is " + middleInitial);
 
 console.log("Step 4:  Is it Hot Outside?");
-
 var isHotOutside = false;
 console.log("Is it hot outside? " + isHotOutside);
 
@@ -77,7 +76,7 @@ var firstName = "Samera";
 console.log("My name is " + firstName);
 
 console.log("Step 6:  Street Address");
-
+d;
 var streetAddress = "791 Windsor rd";
 console.log("we are located at " + streetAddress);
 
